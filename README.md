@@ -54,6 +54,3 @@ MeShow is a fantastic tool that helps you generate beautiful and unique videos f
 
 # Result
 <video width="630" height="300" src="https://github.com/dbackspace/MeShow-preview/assets/42472693/1b07e06c-d1b6-4352-a532-2034b5abb1b5"></video>
-
-# Feedback
-If you have any feedback or want to get full sources, please reach out to me at ducnh.hust@gmail.com
